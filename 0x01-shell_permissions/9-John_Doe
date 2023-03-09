@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root:root hello
+chown 6:6 hello
