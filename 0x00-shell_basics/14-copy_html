@@ -1,2 +1,2 @@
 #!/bin/bash
-cp 1.html 2.html 3.html ..
+cp /./1.html /./2.html /./3.html ../
