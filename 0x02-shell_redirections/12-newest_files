@@ -1,2 +1,2 @@
 #!/bin/bash
-find -newer . | head -n10
+find -newer . -type d | head -n10
