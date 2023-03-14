@@ -1,2 +1,2 @@
 #!/bin/bash
-find -newer './*i' | head -n 10
+find -newer './*' | head -n10
