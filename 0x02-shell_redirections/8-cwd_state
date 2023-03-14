@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "list long all" >> ls_cwd_content
+cat "list long all" >> ls_cwd_content
